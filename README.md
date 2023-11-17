@@ -1,4 +1,3 @@
-# AI 융합 기술 개발자를 목표로 🔥
 ### 💻 Skills
 <span>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
