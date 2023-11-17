@@ -15,7 +15,7 @@
 
 ### My Blog Articles
 <a href="https://bangdoon.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-FF4E00?style=flat-square&logo=tistory&logoColor=white"/></a>
-<a href="https://bangdoon.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/BangDoon World-262729?style=flat-square&logo=notion&logoColor=white"/></a>
+<a href="https://www.notion.so/bangdoon/Hello-BangDoon-world-f5517c95661b48f3988ce638b9908cd5" target="_blank"><img src="https://img.shields.io/badge/BangDoon World-262729?style=flat-square&logo=notion&logoColor=white"/></a>
 
 
 ### Contact
